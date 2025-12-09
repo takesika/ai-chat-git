@@ -2,6 +2,8 @@
 
 OpenAI GPT-4oを使用した汎用AIチャットボットアプリケーション。
 
+[![Deploy to Cloud Run](https://github.com/takesika/ai-chat-git/actions/workflows/deploy.yml/badge.svg)](https://github.com/takesika/ai-chat-git/actions/workflows/deploy.yml)
+
 ## 機能
 
 - リアルタイムストリーミング応答
